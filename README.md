@@ -24,3 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;  
 </div>  
+
+---
+
+<img height = "200" width = "500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaraVilioza&show_icons=true&theme=bear&count_private=true"/> 
